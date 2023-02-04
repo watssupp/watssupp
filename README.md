@@ -14,14 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Jorge Solis</h1>
+<h1 align="left">Hi 👋, I'm Jorge Solis</h1>
 <h3 align="center">I am a full stack web developer with UTA Full Stack Development bootcamp certificate, seeking exciting and educational opportunities to grow as a professional.</h3>
 
-
+<!--
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jorge-solis-889689253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge solis" height="30" width="40" /></a>
-</p>
+</p> -->
+---
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -39,4 +41,11 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=watssupp&theme=dark&hide_icons=true&locale=en&layout=compact" alt="watssupp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=watssupp&theme=dark&hide_icons=true&locale=en" alt="watssupp" /></p>
+
+#
+
+<details>
+   <summary><h3>My Coding Journey</h3></summary>
+   Full Stack developer that graduated from the University of Texas at Austin’s Full Stack Web Development Bootcamp. I developed a passion for coding while in this course when I had to leverage my problem solving and team communication skills to reach our end goal. Always eager to learn as a part of a great team and looking forward to implementing my knowledge into creating something great!
+
                                  
